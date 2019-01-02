@@ -7,6 +7,12 @@ This repository aims to simplify the annual administration of the award for old 
 
 **Work in progress**
 
+## Recommendations for next year
+
+- provide more concrete examples and formatting for DOI and ISSN fields
+- ask for a link to the editorial page if not in DOAJ
+- 
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
