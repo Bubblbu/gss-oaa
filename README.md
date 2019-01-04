@@ -11,7 +11,7 @@ This repository aims to simplify the annual administration of the award for old 
 
 - provide more concrete examples and formatting for DOI and ISSN fields
 - ask for a link to the editorial page if not in DOAJ
-- 
+- add some language around the colours of OA (gold vs hybrid) and explain why gold/hybrid doesn't qualify 
 
 ## License
 
